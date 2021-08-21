@@ -1,4 +1,4 @@
-def swapFileData();
+def swapFileData():
  
     file1 = input("Enter the original file : ")
     file2 = input("Enter the file to be swapped : ")
